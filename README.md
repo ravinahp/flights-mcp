@@ -1,4 +1,5 @@
 # Find Flights MCP Server
+[![smithery badge](https://smithery.ai/badge/find-flights-mcp)](https://smithery.ai/server/find-flights-mcp)
 MCP server for searching and retrieving flight information using Duffel API.
 
 ## How it Works
@@ -70,6 +71,14 @@ This MCP server only uses Duffel's search endpoints and cannot make bookings or 
 - Recommended to review current pricing on their website
 
 ## Installation
+### Installing via Smithery
+
+To install Find Flights for Claude Desktop automatically via [Smithery](https://smithery.ai/server/find-flights-mcp):
+
+```bash
+npx -y @smithery/cli install find-flights-mcp --client claude
+```
+
 Clone the repository:
 ```bash
 git clone https://github.com/ravinahp/flights-mcp
