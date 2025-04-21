@@ -140,7 +140,7 @@ This will create distributions in the `dist/` directory.
 ## Debugging
 For the best debugging experience, use the MCP Inspector:
 ```bash
-npx @modelcontextprotocol/inspector uv --directory /path/to/find-flights-mcp run find-flights-mcp
+npx @modelcontextprotocol/inspector uv --directory /path/to/find-flights-mcp run flights-mcp
 ```
 
 The Inspector provides:
