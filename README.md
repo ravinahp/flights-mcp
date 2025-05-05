@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ravinahp-flights-mcp-badge.png)](https://mseep.ai/app/ravinahp-flights-mcp)
+
 # Find Flights MCP Server ![Option #1](https://github.com/user-attachments/assets/95f0c9fb-f8d8-4290-8b70-26b683707173)
 
 
