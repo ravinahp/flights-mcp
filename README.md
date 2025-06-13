@@ -1,6 +1,10 @@
 # Find Flights MCP Server
 MCP server for searching and retrieving flight information using Duffel API.
 
+<a href="https://glama.ai/mcp/servers/@ravinahp/flights-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@ravinahp/flights-mcp/badge" alt="Find Flights Server MCP server" />
+</a>
+
 ## How it Works
 ![Flight](https://github.com/user-attachments/assets/3ee342a4-c2da-4d4e-a43c-79ae4590d893)
 
